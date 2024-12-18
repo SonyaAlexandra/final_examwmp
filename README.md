@@ -2,4 +2,4 @@ This repository contains my final project for the WMP subject. It is a mobile ap
 - Register and log in
 - Select subjects for enrollment
 - View an enrollment summary with total credits
-- Enforce a maximum credit limit of 24
+- Enforce a maximum credit limit of 21
